@@ -1,0 +1,12 @@
+# Markdown
+
+A plugin for Croogo CMS for letting administrators write content in markdown format.
+
+Requires [Croogo 1.3.2](http://github.com/croogo/croogo/downloads) or above.
+
+## How to use
+
+* Log in to admin panel
+* Go to Extensions > Plugins page
+* Upload the zip file ([available here](http://github.com/fahad19/markdown/archives/master))
+* Click on tick/cross icon of 'Markdown' for activating or deactivating the plugin
