@@ -31,7 +31,7 @@ class MarkdownHelper extends AppHelper {
     public function transform($text = null) {
         if (!isset($this->parser)) {
             if (!class_exists('Markdown_Parser')) {
-                App::import('Vendor', 'Markdown.MarkdownParser');
+            App::import('Vendor', 'Markdown.MarkdownParser');
             }
             $this->parser = new Markdown_Parser;
         }

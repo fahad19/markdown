@@ -13,4 +13,3 @@
  * Hook helper
  */
     Croogo::hookHelper('Nodes', 'Markdown.Markdown');
-?>
